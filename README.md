@@ -1,4 +1,4 @@
-# Daily Note Link Update Script
+# Obsidian Daily Note Link Update Script
 
 This Python script is designed to process a set of markdown files, each named with a date in the format 'YYYY-MM-DD.md'. The script updates a specific line in each markdown file to reflect the correct chronological linking to the previous and next markdown files, based on their names.
 
